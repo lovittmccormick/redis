@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM ubuntu
+FROM ubuntu:14.04
 
 # Install Redis.
 RUN \
